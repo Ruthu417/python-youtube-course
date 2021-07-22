@@ -1,0 +1,21 @@
+dict--1
+file handling 
+	 -open,close
+	- read,write,append
+	- working with files
+
+modules and packages:
+	definition
+	creation of own packages
+math
+	- all methods in it
+comprehensions
+	list and dictionary
+functional programming
+	- lambda,map,filter
+classes and objects
+	- examples
+exception handling
+oops in python
+numpy,pandas and matlpotlib
+
